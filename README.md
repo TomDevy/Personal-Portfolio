@@ -1,5 +1,8 @@
 # Portfolio Website
-A website that is comprises of all my works.
+My portfolio
 ## Author
 
 [Emmanuel Agboola](https://twitter.com/Tom_Agboola)
+
+##Deployed at:
+emmanuel-agboola.netlify.app/
